@@ -135,7 +135,6 @@ The number of operations is particularly important for larger stacks:
 
 Here are some resources to help you with the project:
 
-- [42 Project PDF](https://github.com/42School/push_swap)
 - [Sorting Algorithms Explained](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [Big-O Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Radix Sort Algorithm](https://en.wikipedia.org/wiki/Radix_sort)
